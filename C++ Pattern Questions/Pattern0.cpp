@@ -1,3 +1,8 @@
+/* Author - Akash Sarkar 
+   Date - 08.07.22 
+   Pattern Type - Square Pattern */
+
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
